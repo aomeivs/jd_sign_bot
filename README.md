@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/ruicky/ruicky.github.io/2020/06/05/jd-sign/0.png">
+    <img src="https://cdn.jsdelivr.net/gh/ruicky/ruicky.github.io/2020/07/18/jd-cookie/%E5%A4%8D%E5%88%B6cookie.png">
 </p>
 
 <p align="center">
